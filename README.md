@@ -1,8 +1,3 @@
-# Welcome to your Lovable project
-
-**URL**: https://lovable.dev/projects/125d1b55-f381-4b5e-a27f-b8e001304610
-
----
 
 ## What technologies are used for this project?
 
